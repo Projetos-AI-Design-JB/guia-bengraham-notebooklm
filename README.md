@@ -16,18 +16,18 @@ O mercado valoriza profissionais que mostram o raciocínio por trás dos resulta
 ## Miniguia de Estudo:
 ### Resumo Estruturado da Filosofia de Benjamin Graham
 Fundação do Investimento em Valor: Graham revolucionou o mercado ao transformar o investimento de um jogo de adivinhação em uma ciência baseada em pesquisa meticulosa e análise de fundamentos
-. Ele é o autor de obras definitivas como O Investidor Inteligente e Security Analysis
-.
+Ele é o autor de obras definitivas como O Investidor Inteligente e Security Analysis
+
 Investimento vs. Especulação: Para Graham, uma operação de investimento é aquela que, mediante análise exaustiva, promete segurança do capital principal e um retorno adequado
-. Qualquer operação que não atenda a esses requisitos é considerada especulação (semelhante a apostas)
-.
+Qualquer operação que não atenda a esses requisitos é considerada especulação (semelhante a apostas)
+
 Perfis de Investidores:
 Investidor Defensivo (Passivo): Busca segurança e evita dedicar muito esforço ou tempo na gestão do portfólio. A sua estratégia ideal envolve a diversificação (como o uso de fundos de índice) e o investimento constante através do dollar-cost averaging
-.
+
 Investidor Empreendedor (Ativo): Dedica tempo contínuo, estudo e esforço intelectual para bater a média do mercado, procurando ativamente ações subvalorizadas ou "situações especiais" (como arbitragens e liquidações)
-.
+
 A Abordagem Quantitativa (Checklist de 10 Pontos): Graham utilizava critérios rígidos para selecionar ações, buscando empresas com lucros estáveis, dividendos consistentes, baixo endividamento e um preço de mercado abaixo do valor de seus ativos tangíveis e capital de giro
-.
+
 
 --------------------------------------------------------------------------------
 ### Glossário com os Principais Conceitos
