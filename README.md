@@ -46,7 +46,8 @@ Viés Doméstico (Home Bias): O erro de investir pesadamente apenas em empresas 
 .
 
 --------------------------------------------------------------------------------
-###Conjunto de Prompts Reutilizáveis (Para Futuras Revisões e Estudos)
+
+### Conjunto de Prompts Reutilizáveis (Para Futuras Revisões e Estudos)
 Você pode utilizar estes prompts no nosso chat (ou em outras ferramentas de IA) para testar seus conhecimentos e aprofundar-se no tema futuramente:
 
 Revisão do Sr. Mercado e Margem de Segurança: "Atue como Benjamin Graham. Explique-me como a analogia do 'Sr. Mercado' se conecta diretamente com a necessidade de exigir uma 'Margem de Segurança'. Dê um exemplo prático de uma ação caindo 50% de forma irracional."
