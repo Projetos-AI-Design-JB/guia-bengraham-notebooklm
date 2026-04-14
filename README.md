@@ -4,10 +4,10 @@
 Conteúdo completo do método de Benjamin Graham sobre investimentos. 69 fontes de artigos, 04 vídeos detalhados incluindo audiobook completo.
 
 ## Curadoria de Fontes:
-youtube.com/watch?v=DUj-izr_WgY
-youtube.com/watch?v=NvMqkOxmasI
-youtube.com/watch?v=teNcGiKoM18
-youtube.com/watch?v=NcHDcfsm7DY
+youtube.com/watch?v=DUj-izr_WgY; 
+youtube.com/watch?v=NvMqkOxmasI;
+youtube.com/watch?v=teNcGiKoM18;
+youtube.com/watch?v=NcHDcfsm7DY;
 
 ## Engenharia de Prompts e "Cicatrizes": Documente as perguntas estratégicas que você elaborou e as variações de prompts que testou. 
 Dica de ouro: registre as respostas obtidas, suas referências e também as dificuldades que encontrou para extrair a melhor resposta da IA (troubleshooting). 
