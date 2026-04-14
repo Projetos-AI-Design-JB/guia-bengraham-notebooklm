@@ -7,7 +7,9 @@ Conteúdo completo do método de Benjamin Graham sobre investimentos. 69 fontes 
 https://www.youtube.com/watch?v=DUj-izr_WgY; 
 
 https://www.youtube.com/watch?v=NvMqkOxmasI;
+
 https://www.youtube.com/watch?v=teNcGiKoM18;
+
 https://www.youtube.com/watch?v=NcHDcfsm7DY;
 
 ## Engenharia de Prompts e "Cicatrizes": Documente as perguntas estratégicas que você elaborou e as variações de prompts que testou. 
