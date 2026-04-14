@@ -1,5 +1,7 @@
 # guia-bengraham-notebooklm
 
+Link aqui (https://notebooklm.google.com/notebook/7abd98e1-61ea-474e-8c54-dc41dcfb0e24?authuser=2)
+
 ## Contexto e Objetivos: 
 Conteúdo completo do método de Benjamin Graham sobre investimentos. 69 fontes de artigos, 04 vídeos detalhados incluindo audiobook completo.
 
