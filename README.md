@@ -33,17 +33,17 @@ A Abordagem Quantitativa (Checklist de 10 Pontos): Graham utilizava critérios r
 ### Glossário com os Principais Conceitos
 Margem de Segurança (Margin of Safety): O princípio central de Graham. Significa comprar um ativo por um preço significativamente abaixo do seu valor intrínseco
 . Esse "desconto" funciona como um amortecedor contra erros de cálculo, declínios nos lucros da empresa ou imprevistos do mercado
-.
+
 Sr. Mercado (Mr. Market): Uma metáfora famosa que descreve o mercado de ações como um sócio maníaco-depressivo
 . O Sr. Mercado oscila entre um otimismo eufórico (oferecendo preços absurdamente altos) e um pessimismo irracional (vendendo ações a preços de liquidação)
 . O investidor inteligente tira proveito das flutuações dele, em vez de se deixar influenciar por elas
-.
+
 Valor Intrínseco: O valor real e fundamental de um negócio, calculado através de uma análise cuidadosa dos seus ativos, rendimentos e dividendos, que muitas vezes é bem diferente do preço momentâneo ditado pela bolsa de valores
-.
+
 Dollar-Cost Averaging (Preço Médio via Investimento Constante): A estratégia do investidor defensivo de investir uma quantia fixa de dinheiro em ações em intervalos regulares, independentemente de o mercado estar em alta ou em baixa, mitigando assim o risco emocional e a volatilidade
-.
+
 Viés Doméstico (Home Bias): O erro de investir pesadamente apenas em empresas com as quais se tem familiaridade (como o próprio empregador), gerando uma complacência perigosa onde o investidor ignora a diversificação e a análise aprofundada dos riscos reais
-.
+
 
 --------------------------------------------------------------------------------
 
