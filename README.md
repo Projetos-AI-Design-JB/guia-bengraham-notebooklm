@@ -12,9 +12,38 @@ https://www.youtube.com/watch?v=teNcGiKoM18
 
 https://www.youtube.com/watch?v=NcHDcfsm7DY
 
-## Engenharia de Prompts e "Cicatrizes": Documente as perguntas estratégicas que você elaborou e as variações de prompts que testou. 
-Dica de ouro: registre as respostas obtidas, suas referências e também as dificuldades que encontrou para extrair a melhor resposta da IA (troubleshooting). 
-O mercado valoriza profissionais que mostram o raciocínio por trás dos resultados!
+## Engenharia de Prompts e Troubleshooting: 
+
+Registro de Respostas Obtidas A interação resultou na geração de três artefatos principais focados na filosofia de Benjamin Graham:
+Resumo Estruturado: Uma síntese separando a fundação teórica (Investimento vs. Especulação) e a aplicação prática focada nos dois perfis principais: o Investidor Defensivo (passivo) e o Investidor Empreendedor (ativo)
+
+Glossário Direto: Definição dos jargões e metáforas essenciais criados por Graham, como "Margem de Segurança", "Sr. Mercado", "Valor Intrínseco" e "Dollar-Cost Averaging"
+
+Prompts Reutilizáveis: Cinco modelos de comandos interativos projetados para transformar a teoria estática em sessões de estudo ativo (simulações e testes de conhecimento).
+
+Referências Extraídas e Mapeadas (Base de Conhecimento) A resposta foi construída a partir da extração dos seguintes conceitos-chave presentes no vasto material fonte:
+A Metáfora do Sr. Mercado: Referenciada para explicar a volatilidade emocional da bolsa. O Sr. Mercado é o "sócio maníaco-depressivo" que oferece preços irracionais diariamente, ensinando o investidor a tirar proveito das oscilações em vez de segui-las
+
+Margem de Segurança: O conceito central de todo o investimento, identificado como a prática de comprar ações significativamente abaixo do seu valor fundamental para criar um "amortecedor" contra imprevistos
+
+Checklist de 10 Pontos: Extraído das práticas originais da parceria Graham-Newman, englobando critérios rígidos e quantitativos de seleção (ex: relação preço/lucro, dividendos, ativos circulantes líquidos e dívida)
+
+Definição de Investimento vs. Especulação: Extraída da obra Security Analysis (1934), onde Graham define que uma operação de investimento requer análise exaustiva, segurança do principal e retorno adequado
+
+Perfis de Investidor e Estratégias: O material fonte detalha que o investidor defensivo deve focar em diversificação, fundos de índice e alocação 50/50
+, enquanto o empreendedor pode buscar "situações especiais" como arbitragens e liquidações de empresas
+
+Dificuldades Encontradas e Troubleshooting (O Raciocínio)
+Para demonstrar o raciocínio profissional ao extrair a melhor resposta da IA (Prompt Engineering), aqui estão as dificuldades enfrentadas e como foram contornadas:
+Dificuldade 1: Volume massivo e não-estruturado de dados. As fontes consistiam em longas transcrições literais de vídeos e audiobooks, sem formatação, cheias de anedotas históricas muito específicas (como estudos de caso de ferrovias nos anos 1970 ou empresas de internet em 1999)
+
+Troubleshooting: Se a IA recebesse um comando genérico ("Resuma Benjamin Graham"), ela fatalmente se perderia em exemplos históricos longos. A solução foi restringir o formato de saída pedindo um "Resumo (curto) estruturado". Isso forçou a IA a ignorar o "ruído" anedótico e extrair apenas a espinha dorsal do método.
+Dificuldade 2: Desambiguação de termos e jargões. O texto falava frequentemente de conceitos abstratos, correndo o risco de a IA misturar definições ou deixá-las diluídas no meio do texto
+
+Troubleshooting: Foi solicitado explicitamente um "Glossário com os principais conceitos". Esta tática de particionamento (dividir a requisição em resumo + glossário) forçou a IA a isolar os termos mais importantes (Sr. Mercado, Margem de Segurança) e fornecer definições cirúrgicas, facilitando a consulta rápida.
+Dificuldade 3: Transformar teoria em ferramenta de trabalho (Acionabilidade). Resumos tradicionais gerados por IA costumam ser passivos, lidos uma vez e esquecidos.
+Troubleshooting: Para agregar valor real ao resultado, o raciocínio foi pedir "prompts reutilizáveis". Em vez de apenas entregar a informação final, a IA foi instruída a gerar ferramentas (prompts) que permitissem aplicar os filtros de Graham (como o checklist de 10 pontos) e a mentalidade do investidor defensivo vs. empreendedor
+de forma prática no futuro. Isso mostra um pensamento voltado para a escalabilidade e reaproveitamento do conhecimento.
 
 ## Miniguia de Estudo:
 ### Resumo Estruturado da Filosofia de Benjamin Graham
