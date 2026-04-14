@@ -1,20 +1,20 @@
 # guia-bengraham-notebooklm
 
-Contexto e Objetivos: 
+## Contexto e Objetivos: 
 Conteúdo completo do método de Benjamin Graham sobre investimentos. 69 fontes de artigos, 04 vídeos detalhados incluindo audiobook completo.
 
-Curadoria de Fontes:
+## Curadoria de Fontes:
 youtube.com/watch?v=DUj-izr_WgY
 youtube.com/watch?v=NvMqkOxmasI
 youtube.com/watch?v=teNcGiKoM18
 youtube.com/watch?v=NcHDcfsm7DY
 
-Engenharia de Prompts e "Cicatrizes": Documente as perguntas estratégicas que você elaborou e as variações de prompts que testou. 
+## Engenharia de Prompts e "Cicatrizes": Documente as perguntas estratégicas que você elaborou e as variações de prompts que testou. 
 Dica de ouro: registre as respostas obtidas, suas referências e também as dificuldades que encontrou para extrair a melhor resposta da IA (troubleshooting). 
 O mercado valoriza profissionais que mostram o raciocínio por trás dos resultados!
 
-Miniguia de Estudo:
-Resumo Estruturado da Filosofia de Benjamin Graham
+## Miniguia de Estudo:
+### Resumo Estruturado da Filosofia de Benjamin Graham
 Fundação do Investimento em Valor: Graham revolucionou o mercado ao transformar o investimento de um jogo de adivinhação em uma ciência baseada em pesquisa meticulosa e análise de fundamentos
 . Ele é o autor de obras definitivas como O Investidor Inteligente e Security Analysis
 .
@@ -30,7 +30,7 @@ A Abordagem Quantitativa (Checklist de 10 Pontos): Graham utilizava critérios r
 .
 
 --------------------------------------------------------------------------------
-Glossário com os Principais Conceitos
+### Glossário com os Principais Conceitos
 Margem de Segurança (Margin of Safety): O princípio central de Graham. Significa comprar um ativo por um preço significativamente abaixo do seu valor intrínseco
 . Esse "desconto" funciona como um amortecedor contra erros de cálculo, declínios nos lucros da empresa ou imprevistos do mercado
 .
@@ -46,10 +46,15 @@ Viés Doméstico (Home Bias): O erro de investir pesadamente apenas em empresas 
 .
 
 --------------------------------------------------------------------------------
-Conjunto de Prompts Reutilizáveis (Para Futuras Revisões e Estudos)
+###Conjunto de Prompts Reutilizáveis (Para Futuras Revisões e Estudos)
 Você pode utilizar estes prompts no nosso chat (ou em outras ferramentas de IA) para testar seus conhecimentos e aprofundar-se no tema futuramente:
+
 Revisão do Sr. Mercado e Margem de Segurança: "Atue como Benjamin Graham. Explique-me como a analogia do 'Sr. Mercado' se conecta diretamente com a necessidade de exigir uma 'Margem de Segurança'. Dê um exemplo prático de uma ação caindo 50% de forma irracional."
+
 Investimento vs Especulação: "Quais são os três critérios absolutos que definem uma verdadeira 'operação de investimento' segundo o livro O Investidor Inteligente? Explique por que o 'day trading' seria classificado como especulação de acordo com essas regras."
+
 Planejamento para o Investidor Defensivo: "Sou um investidor defensivo com pouco tempo para analisar balanços financeiros. Monte um plano de ação passo a passo baseado na filosofia de Graham, abordando diversificação, divisão entre ações e títulos, e a estratégia de dollar-cost averaging."
+
 Análise Quantitativa e o Checklist de 10 Pontos: "Descreva detalhadamente pelo menos 5 dos 10 critérios do checklist de Benjamin Graham (como o Índice P/L, a liquidez corrente e a relação dívida/patrimônio). Como a aplicação conjunta desses filtros protege o investidor de perdas permanentes de capital?"
+
 Identificação de Oportunidades Empreendedoras: "De acordo com os ensinamentos de Graham, o que constitui uma 'situação especial' ou uma oportunidade de 'arbitragem' para o investidor empreendedor? Como ele sugere encontrar essas ações ignoradas pelo grande público?"
