@@ -4,7 +4,7 @@
 Conteúdo completo do método de Benjamin Graham sobre investimentos. 69 fontes de artigos, 04 vídeos detalhados incluindo audiobook completo.
 
 ## Curadoria de Fontes:
-youtube.com/watch?v=DUj-izr_WgY; 
+https://youtube.com/watch?v=DUj-izr_WgY; 
 youtube.com/watch?v=NvMqkOxmasI;
 youtube.com/watch?v=teNcGiKoM18;
 youtube.com/watch?v=NcHDcfsm7DY;
